@@ -1,4 +1,4 @@
 
 @PACKAGE_INIT@
 
-include ( "${CMAKE_CURRENT_LIST_DIR}/linalgTargets.cmake" )
+include ( "${CMAKE_CURRENT_LIST_DIR}/p1galerkinTargets.cmake" )
